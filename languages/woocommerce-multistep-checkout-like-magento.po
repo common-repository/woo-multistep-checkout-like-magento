@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:236
+msgid ""
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:286
+msgid "Billing"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:220
+msgid "Buttons Color"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:226
+msgid "Buttons Font color"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:268
+msgid "Step Titles"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:289
+msgid "Enter text for Billing label"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:234
+msgid "Enter text for Next button"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:303
+msgid "Enter text for Order Information label"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:310
+msgid "Enter text for Payment Info label"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:248
+msgid "Enter text for Place Order Button"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:241
+msgid "Enter text for Previous button"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:296
+msgid "Enter text for Shipping label"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:231
+msgid "Next Button"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:177
+#: woocommerce-multistep-checkout-like-magento.php:186
+#: woocommerce-multistep-checkout-like-magento.php:195
+msgid "No"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:300
+msgid "Order Information"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:307
+msgid "Payment Info"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:245
+msgid "Place Order Button"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:238
+msgid "Previous Button"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:327
+msgid "Restore Plugin Defaults"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:202
+msgid "Select background color for active tabs"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:206
+msgid "Select background color for inactive tabs"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:293
+msgid "Shipping"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:201
+msgid "Tabs Color"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:209
+msgid "Active tabs color"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:205
+msgid "Inactive Tabs Font Color"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:214
+msgid "Active Tabs Font Color"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:169
+msgid "WooCommerce MultiStep Checkout Like Magento"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:176
+#: woocommerce-multistep-checkout-like-magento.php:185
+#: woocommerce-multistep-checkout-like-magento.php:194
+msgid "Yes"
+msgstr ""
+
+#. Text in echo
+#: woocommerce-multistep-checkout-like-magento.php:162
+msgid "settings saved."
+msgstr ""

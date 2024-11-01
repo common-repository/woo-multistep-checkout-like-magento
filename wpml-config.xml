@@ -1,0 +1,14 @@
+<wpml-config>   
+    <admin-texts>
+        <key name="wmclm_coupon_label" />
+        <key name="wmclm_billing_label" />
+        <key name="wmclm_shipping_label" />
+        <key name="wmclm_orderinfo_label" />
+        <key name="wmclm_paymentinfo_label" />
+        <key name="wmclm_btn_next" />
+        <key name="wmclm_btn_prev" />
+        <key name="wmclm_btn_finish" />
+    </admin-texts>
+</wpml-config>
+
+
